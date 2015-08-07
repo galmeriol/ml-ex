@@ -1,0 +1,9 @@
+*.mat
+*.swp
+*.swo
+*.pdf
+
+# temporary files
+*octave-workspace
+*.vim
+
