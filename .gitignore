@@ -1,2 +1,6 @@
 *.mat
 *.swp
+
+# temporary files
+*octave-workspace
+*.vim
